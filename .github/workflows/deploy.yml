@@ -3,7 +3,7 @@ name: Deploy to Github
 on:
   push:
     branches:
-      - vite
+      - main
 
 permissions:
   contents: read
