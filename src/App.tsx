@@ -11,14 +11,23 @@ function App() {
 
   return (
     <div className="text-[#E6F7FF] bg-[#0D1117]">
+
       <Header/>
+
       <Intro/>
+
       <TechnicalProficiency/>
+
       <Expertise/>
+
       <DevelopmentFocus/>
+
       <CareerTimeline/>
+
       <DevelopmentDetails/>
+      
       <Footer/>
+
     </div>
   )
 }
